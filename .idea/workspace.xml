@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16adbe4a-c2b2-43c4-8654-236c1ad8e52d" name="Default Changelist" comment="">
+      <change afterPath="H:/forritun 3/skil_2_test.py" afterDir="false" />
+      <change afterPath="H:/forritun 3/undirbuningur_i_timaverk1.py" afterDir="false" />
+      <change afterPath="H:/forritun 3/æfing_2C_try_excpect_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_flask/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_flask/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="H:/.bash_history" beforeDir="false" afterPath="H:/.bash_history" afterDir="false" />
+      <change beforePath="H:/README.md" beforeDir="false" afterPath="H:/README.md" afterDir="false" />
+      <change beforePath="H:/forittun 2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="H:/forittun 2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="H:/forittun 2/.idea/workspace.xml" beforeDir="false" afterPath="H:/forittun 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="H:/forritun 3/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="H:/forritun 3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="H:/forritun 3/.idea/workspace.xml" beforeDir="false" afterPath="H:/forritun 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="H:/forritun 3/test.txt" beforeDir="false" afterPath="H:/forritun 3/test.txt" afterDir="false" />
+      <change beforePath="H:/gagnasöfn_2/VERK_1.sql" beforeDir="false" afterPath="H:/gagnasöfn_2/VERK_1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello_flask/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_flask/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/Activate.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_asyncio.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_bz2.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_contextvars.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_ctypes.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_ctypes_test.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_decimal.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_distutils_findvs.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_elementtree.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_hashlib.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_lzma.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_msi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_multiprocessing.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_overlapped.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_queue.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_socket.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_sqlite3.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_ssl.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_testbuffer.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_testcapi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_testconsole.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_testimportmultiple.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_testmultiphase.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/_tkinter.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/activate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/deactivate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/easy_install-3.7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/easy_install.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/epylint.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/flask.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/isort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/libcrypto-1_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/libssl-1_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/pip.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/pip3.7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/pip3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/pyexpat.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/pylint.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/pyreverse.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/python3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/python37.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/pythonw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/select.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/symilar.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/tcl86t.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/tk86t.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/unicodedata.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/vcruntime140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/Scripts/winsound.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/env/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello_flask/env/pip-selfcheck.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_flask/templates/hello_there.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello_flask/templates/hello_there.html" afterDir="false" />
+      <change beforePath="H:/vsh1a/lokaverkefni" beforeDir="false" afterPath="H:/vsh1a/lokaverkefni" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="5903784">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hello_flask/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#1#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hello_flask" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vsh3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vsh3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vsh3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vsh3" type="462c0819:PsiDirectoryNode" />
+              <item name="hello_flask" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="H:/forritun 3" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="vsh3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hello_flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello_flask/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20506634" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hello_flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#1#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
